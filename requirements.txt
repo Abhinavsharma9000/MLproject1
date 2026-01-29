@@ -1,3 +1,8 @@
 numpy 
 pandas
+python-dotenv
+mysql-connector-python
+pymysql
+scikit-learn
 # -e .  Editable mode -It means install the current project in editable mode.
+
