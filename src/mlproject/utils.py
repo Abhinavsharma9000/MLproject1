@@ -24,7 +24,7 @@ def read_sql_data():
         mydb = pymysql.connect(
              host=host,
              user=user,
-             password=password, 
+             password=password,  # type: ignore
              db=db
         )
 
