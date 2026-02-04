@@ -4,5 +4,9 @@ python-dotenv
 mysql-connector-python
 pymysql
 scikit-learn
+seaborn
+catboost
+xgboost
+
 # -e .  Editable mode -It means install the current project in editable mode.
 
